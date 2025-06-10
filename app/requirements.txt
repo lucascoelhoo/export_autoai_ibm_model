@@ -1,5 +1,5 @@
 flask
 numpy
-scikit-learn==1.3.0
-xgboost==2.0.3
-autoai-libs==1.16.2  # ajuste conforme necessário
+scikit-learn==1.3.*
+xgboost==2.0.*
+autoai-libs==2.0.*  # ajuste conforme necessário
