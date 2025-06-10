@@ -4,6 +4,6 @@ services:
   modelo-api:
     build: ./app
     ports:
-      - "5000:5000"
+      - "50101:5000"
     container_name: modelo_autoai_api
     restart: unless-stopped
